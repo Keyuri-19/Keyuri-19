@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Keyuri-19)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **improving my problem Solving Skills**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
